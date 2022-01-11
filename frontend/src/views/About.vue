@@ -1,13 +1,4 @@
 <template>
-  <!-- <v-card width="100%" height="200px" >
-      <v-row>
-        <v-spacer></v-spacer>
-        <v-col>
-        <p>Hello?</p>
-        </v-col>
-        <v-spacer></v-spacer>
-      </v-row>
-    </v-card> -->
   <div id="top">
     <div style="width: 100%; height: 140px; background-color: #424242">
       <br />
@@ -25,12 +16,6 @@
       <p class="center" style="font-size: 20px">About</p>
     </div>
     <div>
-      <!-- <div style="width:100%;height:100%; background-color: #E0E0E0">
-        <p></p><br>
-        <p style="color:#A1887F;font-size:11px;border-bottom: 10px;">关 于 缙 中 路 18 号 树 洞</p>
-        <p style="color:#A1887F;font-size:11px;border-bottom: 10px;line-height:11px">About Us</p>
-        <br>
-      </div> -->
       <v-card width="100%" height="1000px">
         <v-card-title
           >写 在 前 面 <v-spacer></v-spacer>
@@ -176,7 +161,7 @@
         <br>
         <v-row>
           <v-spacer></v-spacer>
-          <v-btn fab outlined color="#FAFAFA" href="https://github.com/WendaoLee">
+          <v-btn fab outlined color="#FAFAFA" href="https://github.com/WendaoLee/jzMemoryHole">
           <v-avatar size="50"><v-icon size="50" color="#212121">mdi-github</v-icon></v-avatar>
           </v-btn>
           <v-spacer></v-spacer>

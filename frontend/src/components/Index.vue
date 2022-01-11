@@ -22,14 +22,7 @@
     ></MemoryCard>
 
     <BottomNavi></BottomNavi>
-    <!-- <br>
-    <br>
-    <v-row>
-      <v-spacer></v-spacer>
-     <router-link to="/about/#top" style="color:gray">关于</router-link>
-     <v-spacer></v-spacer>
-    </v-row>
-    <br> -->
+ 
   </v-container>
 </template>
 
